@@ -1,0 +1,59 @@
+body{
+  background-color: white;
+}
+.fontMono{
+  font-family: "JetBrains Mono",monospace;
+}
+.navStyle{
+ font-style: normal; 
+ font-weight: 400; 
+ font-size:24px; 
+ background-color: rgb(206, 206, 206);
+}
+.logo{
+  margin: 10px auto 0px auto;
+  display: block;
+  width:400px;
+  margin-right: -200px;
+}
+.headerMain{
+  font-style: normal; 
+  font-weight: 400; 
+  font-size: 64px; 
+  margin-bottom: 0px;
+  font-family: "JetBrains Mono",monospace;
+}
+.header1{
+  font-style: normal; 
+  font-weight: 600;
+  font-size:38px;
+  padding-top: 20px; 
+  padding-bottom: 20px;
+  font-family: "JetBrains Mono",monospace;
+}
+
+.videoStyle{
+  font-style: normal; 
+  font-weight: 600;
+  font-size:38px;
+  padding-bottom: 20px;
+  font-family: "JetBrains Mono",monospace;
+}
+.fontLiteratura{
+  padding-bottom: 5px;
+  font-family: "JetBrains Mono",monospace;
+}
+.fontTekst{
+  padding-bottom: 5px;
+  font-family: "JetBrains Mono",monospace;
+  font-size: 24px;
+}
+.row.row-no-margin {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.col-no-padding {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
